@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Builds, logs, archives
+build/
+dist/
+*.log
+*.zip
+*.tar.gz
+*.apk
+*.aab
+
+# LaTeX aux
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+
+# Editors / OS
+*.swp
+.DS_Store
+
+# Secrets
+.env
+.env.*
